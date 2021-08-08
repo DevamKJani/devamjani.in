@@ -1,0 +1,67 @@
+img {
+/*CSS code to border the image*/
+  border-radius: 50%;
+  /*Setting a circular border around the picture as its circular. If we won,t add this, then it will set a square border*/
+  border: 5px solid #555;
+  /*Setting border size*/
+}
+
+/* mouse over link */
+a:hover {
+  background-color: yellow;
+}
+
+/* Unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+
+/* mark {
+  background-color: cyan;
+  COMMENT: Setting mark color for name
+  color: Black;
+  COMMENT: Setting text color
+} */
+
+/*making a customised mark tag
+mark1 {
+  background-color: Blue;
+  COMMENT: Setting mark color for what I am
+  color: Black;
+  COMMENT: Setting text color
+} */
+
+body {
+  background-color: #FFEDA3;
+}
+
+table {
+  border-color: green;
+  border-radius: 10px;
+}
+
+thead {
+  background-color: #5AA469;
+}
+
+/* .firsthr {
+  color: Red;
+}
+
+.secondaryhr {
+  color: Blue;
+} */
+
+#firsthr {
+  color: Red;
+}
+
+#secondaryhr {
+  color: Blue;
+}
