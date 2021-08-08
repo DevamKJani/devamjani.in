@@ -21,6 +21,9 @@ a:visited {
   color: green;
 }
 
+a:active {
+  color: Blue;
+}
 
 /* mark {
   background-color: cyan;
@@ -50,6 +53,7 @@ thead {
   background-color: #5AA469;
 }
 
+/* Class Example */
 /* .firsthr {
   color: Red;
 }
@@ -58,6 +62,7 @@ thead {
   color: Blue;
 } */
 
+/* Id Example */
 #firsthr {
   color: Red;
 }
